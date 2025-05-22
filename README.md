@@ -14,6 +14,10 @@ Riyadh is in the middle of a massive urban transformation, and the metro project
 - How are bus routes organized in terms of origin and destination?
 - What are the highest-rated stations — and which ones need improvement?
 
+Design and colors: 
+
+The color scheme used in this project is inspired by the colors of the Saudi Arabian flag, featuring the hex code #165D31.
+
 ---
 
 ## 🧠 Key Insights
